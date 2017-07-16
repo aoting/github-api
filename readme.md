@@ -31,3 +31,6 @@ run at command line: mvn clean install
 ### Limitation
 - Getting pull request support public repository on Github only as it does not need authorization.
 - Merging a requeset asks for your credential and you must have write access to the branch being merged.
+
+### Repository
+https://github.com/aoting/github-api
